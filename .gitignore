@@ -1,0 +1,13 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data (not redistributed; see data/README.md)
+data/*.csv
+data/raw/
+
+# OS / editor
+.DS_Store
+.vscode/
